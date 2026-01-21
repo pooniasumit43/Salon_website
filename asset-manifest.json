@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pooniasumit43/Salon_website/static/css/main.5be8cc69.css",
+    "main.js": "/pooniasumit43/Salon_website/static/js/main.a0f63cf0.js",
+    "static/js/453.d60173b8.chunk.js": "/pooniasumit43/Salon_website/static/js/453.d60173b8.chunk.js",
+    "static/media/Hero.jpg": "/pooniasumit43/Salon_website/static/media/Hero.55cdcdca3b66b4de4df5.jpg",
+    "static/media/img5.jpg": "/pooniasumit43/Salon_website/static/media/img5.a772d1cd9770100b6b42.jpg",
+    "index.html": "/pooniasumit43/Salon_website/index.html",
+    "main.5be8cc69.css.map": "/pooniasumit43/Salon_website/static/css/main.5be8cc69.css.map",
+    "main.a0f63cf0.js.map": "/pooniasumit43/Salon_website/static/js/main.a0f63cf0.js.map",
+    "453.d60173b8.chunk.js.map": "/pooniasumit43/Salon_website/static/js/453.d60173b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5be8cc69.css",
+    "static/js/main.a0f63cf0.js"
+  ]
+}
